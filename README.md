@@ -2,7 +2,7 @@
 
 # AMMI-2020-Speech-Recognition-Twi-Audio-dataset
 
-This work is comprised of audio data of Akan Twi, a low resourced language spoken by the Akan people in Ghana.
+This work is comprised of audio data of Akan Twi, a low resourced language spoken by mainly the Akan people in Ghana.
 
 This is a 4-hour speech data recorded using ligaikuma mobile application, of texts sourced from Akan twi King James Bible.
 
