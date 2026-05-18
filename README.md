@@ -10,6 +10,6 @@ The authors are Brefo Yaw Dwamena and Emmanuel Agbeli.
 
 The recordings were done by Mr Brefo Yaw Dwamena, Mr Emmanuel Agbeli, Mrs Dylis Dickson and Mr Amidu Mohammed
 
-Akan Twi Bible Texts was sourced from "Twerɛ Kronkron (ASWDC)", Twi Read Version published by The Bible Society of Ghana, 2012.
+Akan Twi Bible Texts was sourced from "Twerɛ Kronkron (ASWDC)", Twi Read Version published by The Bible Society of Ghana publish in 2012.
 
 This project forms part of AMMI 2020 Speech Recognition Course, thought by Gabriel Synnaeve, Neil Zeghidour, Emmanuel Dupoux & Laurent Besacier.
