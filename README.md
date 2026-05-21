@@ -8,7 +8,7 @@ This is a 4 hour speech data recorded using ligaikuma mobile application, of tex
 
 The authors are Brefo Yaw Dwamena and Emmanuel Agbeli.
 
-The recordings were done by Mr Brefo Yaw Dwamena, Mr Emmanuel Agbeli, Mrs Dylis Dickson and Mr Amidu Mohammed
+The recordings were done by Mr Brefo Yaw Dwamena, Mr Emmanuel Agbeli, Ms Dylis Dickson and Mr Amidu Mohammed
 
 Akan Twi Bible Texts was sourced from "Twerɛ Kronkron (ASWDC)", Twi Read Version published by The Bible Society of Ghana publish in 2012.
 
