@@ -4,7 +4,7 @@
 
 This work comprised of audio data of Akan Twi, a low resourced language spoken by mainly the Akan people in Ghana.
 
-This is a 4-hour speech data recorded using ligaikuma mobile application, of texts sourced from Akan twi King James Bible.
+This is a 4-hour speech data that has been recorded using ligaikuma mobile application, of texts sourced from Akan twi King James Bible.
 
 The authors are Brefo Yaw Dwamena and Emmanuel Agbeli.
 
